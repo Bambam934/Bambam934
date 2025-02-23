@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un Desarrollador empezando. <br>Colaborar me apasiona, pero no lo suficiente.<br>El campo de la teledetección e imagenes satelitales, es mi campo.<br>Tengo habilidades para aprender de una manera facil.<br>Y si, hay que usar las herramientas que nos da la vida como GITHUB y la IA<br>
+Soy un Desarrollador empezando. <br>Colaborar me apasiona, pero no lo suficiente.<br>El campo de la teledetección e imagenes satelitales, es mi campo.<br>Tengo habilidades para aprender de una manera facil.<br>Y si, hay que usar las herramientas que nos da la vida como GITHUB y la IA, SE DEBEN USAR<br>
 
 
 ## 🌐 Socials:
